@@ -18,23 +18,22 @@ The Tableau dashboard consists of five key visualizations that provide insights 
 ### 1. **Top Product Categories by Profit Margin**
    - **Description**: A bar chart that ranks product categories by their profit margin to highlight which products should receive the most marketing focus.
    - <img width="850" alt="Screenshot 2024-09-14 at 3 40 41 PM" src="https://github.com/user-attachments/assets/405b8cfe-a9a4-4a79-b6c8-6f1c29f8e149">
-hot1.png)
 
 ### 2. **Regional Sales and Profitability Map**
    - **Description**: A geographical view showing regional sales and profitability across different states, with color indicating profit margins and size representing sales volume.
-   - ![Regional Sales and Profitability Map](path_to_screenshot2.png)
+   - <img width="850" alt="Screenshot 2024-09-14 at 3 41 35 PM" src="https://github.com/user-attachments/assets/0e50ea21-71e8-490f-86ef-82481d9c3588">
 
 ### 3. **Marketing Efficiency Scatter Plot**
    - **Description**: A scatter plot comparing marketing expenses with profit margins, helping to evaluate the effectiveness of marketing investments.
-   - ![Marketing Efficiency Scatter Plot](path_to_screenshot3.png)
+   - <img width="850" alt="Screenshot 2024-09-14 at 3 42 05 PM" src="https://github.com/user-attachments/assets/f22a5e48-499b-4267-8742-07e111af7d61">
 
 ### 4. **Sales and Profit Trends Over Time**
    - **Description**: A dual-axis line chart tracking sales and profit margin trends over the course of the year, showing seasonality patterns and opportunities for optimized campaign planning.
-   - ![Sales and Profit Trends Over Time](path_to_screenshot4.png)
+   - <img width="850" alt="Screenshot 2024-09-14 at 3 42 34 PM" src="https://github.com/user-attachments/assets/ad748795-9254-49b4-b7b2-90e0795cd212">
 
 ### 5. **Product Marketing Suggestions**
    - **Description**: A combined bar and line chart showing sales performance alongside profit margins for different product categories, helping to determine which products may require additional marketing efforts.
-   - ![Product Marketing Suggestions](path_to_screenshot5.png)
+   - <img width="850" alt="Screenshot 2024-09-14 at 3 42 59 PM" src="https://github.com/user-attachments/assets/3d0dee7b-01ba-494e-8124-c694ac278e6f">
 
 ---
 
@@ -110,21 +109,3 @@ Use the **filters** (Product Category, Region, and Date) to dive deeper into spe
 - Explore customer segmentation to refine marketing efforts further.
 
 ---
-
-### **Screenshots**
-Below are screenshots of each dashboard visualization.
-
-1. **Top Product Categories by Profit Margin**  
-   ![Top Product Categories by Profit Margin](path_to_screenshot1.png)
-
-2. **Regional Sales and Profitability Map**  
-   ![Regional Sales and Profitability Map](path_to_screenshot2.png)
-
-3. **Marketing Efficiency Scatter Plot**  
-   ![Marketing Efficiency Scatter Plot](path_to_screenshot3.png)
-
-4. **Sales and Profit Trends Over Time**  
-   ![Sales and Profit Trends Over Time](path_to_screenshot4.png)
-
-5. **Product Marketing Suggestions**  
-   ![Product Marketing Suggestions](path_to_screenshot5.png)
