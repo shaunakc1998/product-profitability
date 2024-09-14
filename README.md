@@ -17,7 +17,8 @@ The Tableau dashboard consists of five key visualizations that provide insights 
 
 ### 1. **Top Product Categories by Profit Margin**
    - **Description**: A bar chart that ranks product categories by their profit margin to highlight which products should receive the most marketing focus.
-   - ![Top Product Categories by Profit Margin](path_to_screenshot1.png)
+   - <img width="850" alt="Screenshot 2024-09-14 at 3 40 41 PM" src="https://github.com/user-attachments/assets/405b8cfe-a9a4-4a79-b6c8-6f1c29f8e149">
+hot1.png)
 
 ### 2. **Regional Sales and Profitability Map**
    - **Description**: A geographical view showing regional sales and profitability across different states, with color indicating profit margins and size representing sales volume.
