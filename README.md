@@ -9,7 +9,9 @@ The dashboard answers the following key business questions:
 - Which products need more marketing focus?
 - What are the trends and seasonality patterns in sales and profit?
 
- ## Dashboard Structure
+## Dashboard Structure
+The Tableau dashboard consists of five key visualizations that provide insights into product performance, regional profitability, and marketing efficiency.
+
 
 
 
