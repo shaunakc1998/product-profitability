@@ -9,7 +9,7 @@ The dashboard answers the following key business questions:
 - Which products need more marketing focus?
 - What are the trends and seasonality patterns in sales and profit?
 
- # Dashboard Structure
+# Dashboard Structure
 
 
 
